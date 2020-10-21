@@ -1,0 +1,63 @@
+.wi21{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    width: 3%;
+    z-index: 2;
+  }
+.logcen{
+  border: transparent 3px solid;
+  text-align: center;
+  position: absolute;
+  color: chartreuse;
+  top: 25%;
+  left: 15%;
+  right: 15%;
+  z-index: 2;
+  opacity: 1;
+}
+input.kk{
+  width: 70%;
+  height: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+video{
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position: absolute;
+}
+.fex{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.regg{
+  color: aqua;
+  padding-top: 1%;
+  margin-left: 1%;
+}
+.backkkk{
+  background-color: green;
+}
+.overlay{
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  position: absolute;
+  background-color: black;
+  z-index: 1;
+  opacity: 0.65;
+}
+.bulog{
+  padding:0.6%;
+  width: 10%;
+  border-radius: 8%;
+  border-style: none;
+  font-size: 20px;
+}

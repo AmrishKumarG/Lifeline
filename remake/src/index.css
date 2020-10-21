@@ -59,13 +59,14 @@ code {
   width: 100%;
   display: flex;
   flex-direction: row;
-  background-color:rgba(170, 25, 25, 0);
+  background-color:transparent;
   color: red;
   z-index: 3;
 }
 .wi2{
   left: 0%;
   top:0%;
+  padding-top: 0.4%;
   width: 3%;
   height: 0.1%;
   margin-right: 16%;
@@ -77,9 +78,9 @@ margin-left: 5%;
 .bu{
   position: absolute;
   color:rgba(255, 255, 255, 0.884);
-  width: 170px;
+  width: 190px;
   height: 60px;
-  top:65%;
+  top:72%;
   font-size:20px;
   border-radius: 4%;
   z-index: 2;
@@ -152,14 +153,15 @@ border-bottom: whitesmoke 2px solid;
     margin-bottom: 0%;
   }
   .folo{
-    margin-left: 45%;
-    align-content: center;
+    margin-left: 12%;
+    align-items: left;
+    justify-content: left;
     display: flex;
     flex-direction: row;
   }
   .wii{
     padding-top: 2.5%;
-    width: 4%;
+    width: 3.5%;
     height: 0.2%;
   }
   .down{
@@ -176,4 +178,7 @@ border-bottom: whitesmoke 2px solid;
 }
 .specal{
   margin-left: -22%;
+}
+.hhh1{
+  padding-top: 2%;
 }

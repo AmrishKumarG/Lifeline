@@ -7,7 +7,7 @@ export class Footer extends Component {
             <div className="fo">
                 <div className="folo">
                 <img src="logo.png" className="wii"></img>
-                <h1>Lifeline</h1>
+                <h1 className="hhh1">Lifeline</h1>
                 </div>
                 <div className="down">
                 <div className="block">
@@ -22,7 +22,7 @@ export class Footer extends Component {
                     <h3 className="specal">Contact US</h3>
                     <ul>
                     <li><h4>Address:Vel Tech</h4></li>
-                    <li><h4>Phone:6383548303</h4></li>
+                    <li><h4>Phone:+91 6383548303</h4></li>
                     <li><h4>Email:lifeline@gmail.com</h4></li>
                     </ul>
                 </div>

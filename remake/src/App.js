@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Home from './Home2';
+import Home from './Home';
 import Hesder from './Hesder';
 function App() {
   return (
