@@ -1,0 +1,54 @@
+.sam{
+    width: 300%;
+    height:500px;
+}
+.aboutflex{
+    display: flex;
+}
+.abouthead{
+    color:#ff0844;
+    font-family:  Georgia, serif;
+    font-size: 25px;   
+    margin-left: 10%;
+    margin-top:5%;
+}
+.mman{
+    color: black;
+    font-size: 25px;
+    margin-right: 10%;
+}
+.group{
+    display: flex;
+    background-color: violet;
+    margin-bottom: 10%;
+}
+.myteam{
+    border: 2px solid transparent;
+    margin-left: 3%;
+    margin-right: 2%;
+    padding-top: 4%;
+}
+.abouthead1{
+    color:#ff0844;
+    font-family:  Georgia, serif;
+    font-size: 50px;   
+    text-align: center;
+    margin-bottom: 4%;
+}
+.picture{
+width: 90%;
+height: 80%;
+}
+.amrisho{
+margin-left: -10%;
+}
+.normal{
+    text-align: center;
+}
+.wi211{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    width: 3%;
+    z-index: 2;
+  }

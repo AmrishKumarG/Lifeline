@@ -1,0 +1,64 @@
+.fo{
+    color: whitesmoke;
+    background-color:black;
+    margin-bottom: 0%;
+  }
+  .folo{
+    margin-left: 12%;
+    align-items: left;
+    justify-content: left;
+    display: flex;
+    flex-direction: row;
+  }
+  .wii{
+    padding-top: 2.5%;
+    width: 3.5%;
+    height: 0.2%;
+  }
+  .hhh1{
+    padding-top: 2%;
+  }
+  .down{
+    display: flex;
+    flex-direction: row;
+  }
+  .block{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+.just{
+    margin-left: 20%;
+  }
+  
+.specal{
+  margin-left: 13%;
+}
+ul{
+    list-style-type: none;
+    text-align: left;
+  }
+
+.ic a{
+  margin-top: 10%;
+}  
+.ssss{
+  font-family: Arial, Helvetica, sans-serif;
+}
+li{
+  display: flex;
+}
+.sankar{
+  height:180px;
+  width:45%;
+  text-align: left;
+  font-family:  Georgia, serif;
+  font-size: 1em;
+  font-weight: bolder;
+  }
+.vandyss{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.sociallink{
+  margin-left: -25%;
+}

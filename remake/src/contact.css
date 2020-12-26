@@ -1,0 +1,84 @@
+.imgg{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+}
+.overlay1{
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height:100%;
+    position: absolute;
+    margin-bottom: -1%;
+    background-color: black;
+    z-index: 1;
+    opacity: 0.55;
+  }
+  .formc{
+    position: absolute;
+    top: 48%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .wi21{
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    right: 1%;
+    width: 3%;
+    z-index: 2;
+  }
+  .vk{
+      margin-top: 10%;
+      margin-bottom: 10%;
+      width: 200%;
+      height: 40px;
+      font-size: 20px;
+      font-weight: 200;
+  }
+  .vkk{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 200%;
+    height: 150px;
+    font-weight: 200;
+    font-size: 20px;
+  }
+  .buuu{
+    position: absolute;
+    color:rgba(255, 255, 255, 0.884);
+    width: 170px;
+    height: 60px;
+    font-size:25px;
+    border-radius: 4%;
+    background-color: #ff0844;
+    border:0px solid  rgb(165, 95, 159);
+    transform:translate(-50%,-50%);
+    top:103%;
+    margin-left: 100%;
+    font-family: Georgia, serif;
+  }
+  .join{
+      display: flex;
+      flex-direction: row;
+  }
+  .mmap1{
+      position: absolute;
+      top: 24%;
+      left: 60%;
+      margin-right: 50%;
+      z-index: 2;
+  }
+  .akcen1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:250%;
+    color:#ff0844;
+  }
+  .buuu:hover{
+      color: whitesmoke;
+      border: 1px solid whitesmoke;
+      cursor: pointer;
+  }

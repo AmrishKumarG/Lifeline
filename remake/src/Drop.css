@@ -1,0 +1,24 @@
+.mhk{
+    border-style: none;
+    background-color: transparent;
+    color:rgba(219, 43, 43, 0.87);
+    font-size: 30px;
+    font-family: sans-serif Georgia;
+    margin-top:6%;
+    margin-left: 30%;
+    font-weight: 100;
+}
+.mh{
+    border-style: none;
+    background-color: transparent;
+    color:rgba(219, 43, 43, 0.87);
+    font-size: 30px;
+    font-family: sans-serif Georgia;
+    margin-top:6%;
+    margin-left: 30%;
+    font-weight: 100;
+}
+.flflfl{
+    color: red;
+    position: absolute;
+}
