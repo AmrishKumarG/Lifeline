@@ -1,8 +1,5 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -58,18 +55,9 @@ code {
   position: fixed;
   width: 100%;
   display: flex;
-  flex-direction: row;
   background-color:transparent;
-  color: red;
+  color: rgba(219, 43, 43, 0.87);
   z-index: 3;
-}
-.wi2{
-  left: 0%;
-  top:0%;
-  padding-top: 0.4%;
-  width: 3%;
-  height: 0.1%;
-  margin-right: 16%;
 }
 .rem2 h1{
 margin-left: 5%;
@@ -78,10 +66,11 @@ margin-left: 5%;
 .bu{
   position: absolute;
   color:rgba(255, 255, 255, 0.884);
-  width: 190px;
+  width: 210px;
   height: 60px;
-  top:72%;
-  font-size:20px;
+  top:74%;
+  font-size:23px;
+  font-weight: 100;
   border-radius: 4%;
   z-index: 2;
   background-color: rgba(167, 4, 4, 0.925);
@@ -105,8 +94,13 @@ margin-left: 5%;
     margin-top: 220px;
     transform:translate(-50%,-50%);
 }
-.rem2.sc {
-  background-color: blue;
+.rem2.sc{
+  background-color: white; 
+}
+
+.rem2.sc h1:hover {
+  border-top: red 2px solid;
+border-bottom: red 2px solid;
 }
 .rem2 h1{
   font-size: 30px;
@@ -121,6 +115,8 @@ border-bottom: whitesmoke 2px solid;
   text-align: left;
   margin-left: 10%;
   margin-top: 7%;
+  font-size: 37px;
+  color:#f13061 ;
 }
 .i{
   display: flex;
@@ -129,6 +125,8 @@ border-bottom: whitesmoke 2px solid;
 .lec{
   text-align: left;
   margin-left: 10%;
+  font-size: 30px;
+  text-align: justify;
   }
 .aa{
   width:35%;
@@ -142,43 +140,21 @@ border-bottom: whitesmoke 2px solid;
   margin-left: 10%;
   margin-right: 10%;
   text-align: left;
+  font-size: 30px;
+  text-align: justify;
   }
   .re{
     text-align: right;
     margin-right: 29%;
+    font-size: 37px;
+    color:#5e2d3a ;
   }
-  .fo{
-    color: rgb(255, 252, 251);
-    background-color: black;
-    margin-bottom: 0%;
+  .pppppppppppp{
+    margin-left:27%;
   }
-  .folo{
-    margin-left: 12%;
-    align-items: left;
-    justify-content: left;
-    display: flex;
-    flex-direction: row;
+  #bu:hover{
+    color:black;
   }
-  .wii{
-    padding-top: 2.5%;
-    width: 3.5%;
-    height: 0.2%;
+  .all{
+    font-family:  Georgia, serif;
   }
-  .down{
-    display: flex;
-    flex-direction: row;
-  }
-  ul{
-    list-style-type: none;
-    text-align: left;
-  }
-.block{
-  margin-left: 10%;
-  margin-right: 10%;
-}
-.specal{
-  margin-left: -22%;
-}
-.hhh1{
-  padding-top: 2%;
-}

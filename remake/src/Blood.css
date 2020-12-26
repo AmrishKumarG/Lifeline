@@ -1,0 +1,131 @@
+
+.vs{
+    position: absolute;
+    top:15%;
+    left:13%;
+}
+   .mage{
+     width:58%;
+     max-height:550px;
+     margin-left: 40%;
+     margin-top:-3%;
+   }
+  
+  .vgh{
+    position:absolute;
+    left:12.5%;
+    top:65%;
+    transform:translate(-50,-50);
+    width:75%;
+    height:400px;
+    background-color:white;
+    text-align:center;
+    color:black;
+    border-spacing: 0px;
+    border-radius: 12px;
+    font-size: medium;
+    overflow:hidden;
+  }
+  th{
+    font-size: x-large;
+    font-family:georgia,sans-serif;
+    color:white;
+  }
+  .vgh tr{
+    padding:33px;
+  }
+  .vgh td{
+    padding:33px;
+  }
+  tr:nth-child(odd){
+    background-color:rgba(177, 172, 172, 0.39)
+  }
+  th{
+    background-color:#f13061 ;
+    padding:27px;
+  
+    }
+  .bmw{
+    position:relative;
+    left:5%;
+    width:27%;
+    top:-15px;
+    height:40px;
+    font-size: larger;
+    background-color: rgba(241, 235, 232, 0.767);
+    color:black;
+    border-color: black;
+    box-shadow: 3px 7px 8px;
+  }
+  .bm{
+    position:relative;
+    left:-20%;
+    width:27%;
+    top:-15px;
+    height:40px;
+    font-size: larger;
+    background-color: rgba(241, 235, 232, 0.767);
+    color:black;
+    border-color: black;
+    box-shadow: 3px 7px 8px;
+    margin-left: 20%;
+  }
+  .aq{
+    background-color: #f9d423;
+    width:90px;
+    font-family:  Georgia, serif;
+    border:none;
+    height:40px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-left: 30%;
+    margin-top: 5%;
+    font-size: medium;
+    color:black;
+    font-size: larger;
+    
+  }
+  .aq:hover{
+    color:white;
+    background-color:#ff0844 ;
+    box-shadow:yellow 0px 0px 18px 4px;
+
+  }
+  .vas {
+    margin-top:-17%;
+    margin-left: -10%;
+    font-family: 'Courier New', Courier, monospace;
+      font-size:4em;
+      font-weight: 600%;
+      text-align: center;
+      color:#ff0844;
+      padding:1em;
+  
+    }
+    .vo{
+      color: rgba(221, 110, 46, 0.945);
+    }
+    .bw{
+      display:flex;
+      text-align: center;
+      
+    }
+    .iconic{
+      width:7%;
+      position: absolute;
+      left:8%;
+      top:8%;
+    }
+    .wi21{
+      position: absolute;
+      top: 5%;
+      left: 2%;
+      width: 3%;
+      z-index: 2;}
+
+      .mukesh:hover{
+        border-color: black;
+        box-shadow: black 3px 7px 8px;
+        color:#ff0844
+      }
+  
